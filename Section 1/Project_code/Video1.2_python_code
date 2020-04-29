@@ -1,0 +1,8 @@
+lyr = QgsVectorLayer('/Users/jane/Desktop/Data/parks.shp', 'parks', 'ogr')
+QgsProject.instance().addMapLayer(lyr)
+
+lyr = QgsVectorLayer('/Users/jane/Desktop/Data/bikeways.shp', 'bikeways', 'ogr')
+QgsProject.instance().addMapLayer(lyr)
+
+lyr = QgsVectorLayer('/Users/jane/Desktop/Data/city.shp', 'city', 'ogr')
+QgsProject.instance().addMapLayer(lyr)
