@@ -1,0 +1,26 @@
+from qgis.core import *
+from qgis.PyQt.QtCore import QVariant
+layer = QgsProject.instance().mapLayersByName("bikeways")
+layer=layer[0]
+
+## Assigning layer features to create buffers for
+features = layer.selectedFeatures()
+fields = layer.fields()
+
+## Define output file location
+outfile = ''
+
+## Looping each selected bikeways to create buffered area
+writer = QgsVectorFileWriter(outfile, 'UTF-8', fields, QgsWkbTypes.Polygon, layer.sourceCrs(), 'ESRI Shapefile')
+
+
+for i in features:
+    
+    geom = i.geometry()
+    bf_geom = geom.buffer(50, 5)
+    i.setGeometry(bf_geom)
+    writer.addFeature(i)
+
+iface.addVectorLayer(outfile, '', 'ogr')
+del(writer)
+    
