@@ -22,7 +22,10 @@ Implement efficient and reproducible workflows for geospatial analysis
 This course has the following software requirements:<br/>
 <UL><LI>Browser: Google Chrome or Firefox https://www.google.com/chrome/
 <LI>Python: Version >= 3.6 https://www.python.org/downloads/
-<LI>QGIS: Version >=3.4 https://qgis.org/en/site/forusers/download.html</LI></UL>
+<LI>QGIS: Version >=3.4 https://qgis.org/en/site/forusers/download.html
+<LI>OS: Windows 10 / Mac El Capitan (10.11.6)
+<LI>Memory: 4GB of RAM
+<LI>Storage: 10GB of free hard drive space</LI></UL>
 
 ## Related Products
 * [Learning the FOSS4G Stack: Python for Geospatial [Video]](https://www.packtpub.com/in/programming/learning-the-foss4g-stack-python-for-geospatial-video)
