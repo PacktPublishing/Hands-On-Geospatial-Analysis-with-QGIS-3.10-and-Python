@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-geospatial-analysis-with-qgis-3-10-and-python-video/9781838644017)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Geospatial Analysis with QGIS 3.10 and Python[Video]
 This is the code repository for [Hands-On Geospatial Analysis with QGIS 3.10 and Python]( https://github.com/PacktPublishing/Hands-On-Geospatial-Analysis-with-QGIS-3.10-and-Python). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
