@@ -64,7 +64,3 @@ This course has the following software requirements:<br/>
 * [Hands-On Geospatial Analysis with R and QGIS 3.4 [Video]](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-geospatial-analysis-r-and-qgis-34-video)
 
 * [ArcGIS Desktop for Spatial Analysis: Go from Basic to Pro [Video]](https://www.packtpub.com/in/programming/arcgis-desktop-for-spatial-analysis-go-from-basic-to-pro-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838644017">https://packt.link/free-ebook/9781838644017 </a> </p>
